@@ -349,9 +349,9 @@ oc deploy cakephp-mysql-example --latest
                 <?php endif; ?>
   
 <?php
-echo ' <p>Hostname</p?';
+echo '<p>Hostname</p>';
 echo gethostname(); // may output e.g,: sandie
-echo ' <p>uname</p?'; 
+echo '<p>uname</p>'; 
 // Or, an option that also works before PHP 5.3
 echo php_uname('n'); // may output e.g,: sandie
 ?>
