@@ -210,7 +210,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your CakePHP application on Vancis Test OpenShift dd 206.11.14</h1>
+            <h1>Welcome to your CakePHP application on Vancis Test OpenShift dd 206.11.14 John demoo</h1>
           </hgroup>
 
 
